@@ -1,1 +1,0 @@
-[["tig00027351.g36.t1","tig00027351.g36.t1.path1"],"Gene prediction_2","tig00027351.g36.t1","Scaffold_53",13281,14788]

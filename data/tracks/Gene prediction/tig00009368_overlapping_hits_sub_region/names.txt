@@ -1,3 +1,0 @@
-[["tig00009368.g106.t1","tig00009368.g106.t1.path1"],"Gene prediction","tig00009368.g106.t1","tig00009368_overlapping_hits_sub_region",11296,18206]
-[["tig00009368.g105.t1","tig00009368.g105.t1.path1"],"Gene prediction","tig00009368.g105.t1","tig00009368_overlapping_hits_sub_region",21934,22449]
-[["tig00009368.g104.t1","tig00009368.g104.t1.path1"],"Gene prediction","tig00009368.g104.t1","tig00009368_overlapping_hits_sub_region",26656,28326]

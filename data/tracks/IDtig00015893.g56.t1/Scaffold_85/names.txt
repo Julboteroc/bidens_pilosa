@@ -1,0 +1,1 @@
+[["Antimicrobial_Peptide.cds","IDtig00015893.g56.t1.cds.path1"],"IDtig00015893.g56.t1","Antimicrobial_Peptide.cds","Scaffold_85",2744701,2745111]

@@ -1,3 +1,0 @@
-[["tig00026039.g31.t1","tig00026039.g31.t1.path1"],"Gene prediction_2","tig00026039.g31.t1","Scaffold_17",7030,11603]
-[["tig00026039.g30.t1","tig00026039.g30.t1.path1"],"Gene prediction_2","tig00026039.g30.t1","Scaffold_17",12619,13877]
-[["tig00008460.g6.t1","tig00008460.g6.t1.path1"],"Gene prediction_2","tig00008460.g6.t1","Scaffold_17",19046,20209]

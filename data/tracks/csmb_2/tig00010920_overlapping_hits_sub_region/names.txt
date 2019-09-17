@@ -1,4 +1,0 @@
-[["tig00010920.g13.t1","tig00010920.g13.t1.path1"],"csmb_2","tig00010920.g13.t1","tig00010920_overlapping_hits_sub_region",1076,2562]
-[["tig00010920.g12.t1","tig00010920.g12.t1.path1"],"csmb_2","tig00010920.g12.t1","tig00010920_overlapping_hits_sub_region",4137,6274]
-[["tig00010920.g11.t1","tig00010920.g11.t1.path1"],"csmb_2","tig00010920.g11.t1","tig00010920_overlapping_hits_sub_region",6949,10705]
-[["tig00010920.g10.t1","tig00010920.g10.t1.path1"],"csmb_2","tig00010920.g10.t1","tig00010920_overlapping_hits_sub_region",15211,18567]

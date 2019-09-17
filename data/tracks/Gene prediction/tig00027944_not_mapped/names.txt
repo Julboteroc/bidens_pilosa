@@ -1,5 +1,0 @@
-[["tig00027944.g104.t1","tig00027944.g104.t1.path1"],"Gene prediction","tig00027944.g104.t1","tig00027944_not_mapped",84,5902]
-[["tig00027944.g105.t1","tig00027944.g105.t1.path1"],"Gene prediction","tig00027944.g105.t1","tig00027944_not_mapped",6065,7011]
-[["tig00027944.g106.t1","tig00027944.g106.t1.path1"],"Gene prediction","tig00027944.g106.t1","tig00027944_not_mapped",7381,10267]
-[["tig00027944.g107.t1","tig00027944.g107.t1.path1"],"Gene prediction","tig00027944.g107.t1","tig00027944_not_mapped",10600,13357]
-[["tig00027944.g108.t1","tig00027944.g108.t1.path1"],"Gene prediction","tig00027944.g108.t1","tig00027944_not_mapped",13525,14400]

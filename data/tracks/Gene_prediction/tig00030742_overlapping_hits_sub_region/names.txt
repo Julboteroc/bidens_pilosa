@@ -1,0 +1,2 @@
+[["IDtig00030742.g96.t1.cds","IDtig00030742.g96.t1.cds.path1"],"Gene_prediction","IDtig00030742.g96.t1.cds","tig00030742_overlapping_hits_sub_region",228,5213]
+[["IDtig00030742.g97.t1.cds","IDtig00030742.g97.t1.cds.path1"],"Gene_prediction","IDtig00030742.g97.t1.cds","tig00030742_overlapping_hits_sub_region",10847,13759]

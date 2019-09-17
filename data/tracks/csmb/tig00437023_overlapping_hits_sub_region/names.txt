@@ -1,1 +1,0 @@
-[["tig00437023.g67.t1","tig00437023.g67.t1.path1"],"csmb","tig00437023.g67.t1","tig00437023_overlapping_hits_sub_region",602,1969]

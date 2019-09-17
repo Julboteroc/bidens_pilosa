@@ -1,3 +1,0 @@
-[["tig00051617.g122.t1","tig00051617.g122.t1.path1"],"csmb","tig00051617.g122.t1","tig00436852_overlapping_hits_sub_region",2634,7176]
-[["tig00436852.g24.t1","tig00436852.g24.t1.path1"],"csmb","tig00436852.g24.t1","tig00436852_overlapping_hits_sub_region",12961,17969]
-[["tig00436852.g23.t1","tig00436852.g23.t1.path1"],"csmb","tig00436852.g23.t1","tig00436852_overlapping_hits_sub_region",31749,37543]

@@ -1,8 +1,0 @@
-[["tig00435354.g44.t1","tig00435354.g44.t1.path1"],"csmb_2","tig00435354.g44.t1","tig00435354_overlapping_hits_sub_region",7978,11097]
-[["tig00435354.g43.t1","tig00435354.g43.t1.path1"],"csmb_2","tig00435354.g43.t1","tig00435354_overlapping_hits_sub_region",12126,14011]
-[["tig00435354.g41.t1","tig00435354.g41.t1.path1"],"csmb_2","tig00435354.g41.t1","tig00435354_overlapping_hits_sub_region",22985,24730]
-[["tig00435354.g40.t1","tig00435354.g40.t1.path1"],"csmb_2","tig00435354.g40.t1","tig00435354_overlapping_hits_sub_region",27570,29569]
-[["tig00435354.g39.t1","tig00435354.g39.t1.path1"],"csmb_2","tig00435354.g39.t1","tig00435354_overlapping_hits_sub_region",32440,35278]
-[["tig00435354.g38.t1","tig00435354.g38.t1.path1"],"csmb_2","tig00435354.g38.t1","tig00435354_overlapping_hits_sub_region",35688,36904]
-[["tig00435354.g37.t1","tig00435354.g37.t1.path1"],"csmb_2","tig00435354.g37.t1","tig00435354_overlapping_hits_sub_region",43955,46262]
-[["tig00435354.g36.t1","tig00435354.g36.t1.path1"],"csmb_2","tig00435354.g36.t1","tig00435354_overlapping_hits_sub_region",46898,52075]

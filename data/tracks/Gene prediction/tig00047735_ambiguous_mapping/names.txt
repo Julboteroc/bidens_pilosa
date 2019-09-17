@@ -1,4 +1,0 @@
-[["tig00047735.g116.t1","tig00047735.g116.t1.path1"],"Gene prediction","tig00047735.g116.t1","tig00047735_ambiguous_mapping",853,5733]
-[["tig00007277.g88.t1","tig00007277.g88.t1.path1"],"Gene prediction","tig00007277.g88.t1","tig00047735_ambiguous_mapping",4624,6725]
-[["tig00007277.g88.t1","tig00007277.g88.t1.path1"],"Gene prediction","tig00007277.g88.t1","tig00047735_ambiguous_mapping",4624,6725]
-[["tig00047735.g118.t1","tig00047735.g118.t1.path1"],"Gene prediction","tig00047735.g118.t1","tig00047735_ambiguous_mapping",7105,9178]

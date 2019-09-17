@@ -1,8 +1,0 @@
-[["tig00022119.g72.t1","tig00022119.g72.t1.path1"],"Gene prediction","tig00022119.g72.t1","tig00022119_overlapping_hits_sub_region",87,1415]
-[["tig00022119.g73.t1","tig00022119.g73.t1.path1"],"Gene prediction","tig00022119.g73.t1","tig00022119_overlapping_hits_sub_region",3356,5981]
-[["tig00022119.g75.t1","tig00022119.g75.t1.path1"],"Gene prediction","tig00022119.g75.t1","tig00022119_overlapping_hits_sub_region",12499,15602]
-[["tig00022119.g76.t1","tig00022119.g76.t1.path1"],"Gene prediction","tig00022119.g76.t1","tig00022119_overlapping_hits_sub_region",21956,27988]
-[["tig00022119.g77.t1","tig00022119.g77.t1.path1"],"Gene prediction","tig00022119.g77.t1","tig00022119_overlapping_hits_sub_region",28993,30815]
-[["tig00050032.g111.t1","tig00050032.g111.t1.path1"],"Gene prediction","tig00050032.g111.t1","tig00022119_overlapping_hits_sub_region",31740,37639]
-[["tig00022119.g78.t1","tig00022119.g78.t1.path1"],"Gene prediction","tig00022119.g78.t1","tig00022119_overlapping_hits_sub_region",31740,37516]
-[["tig00022119.g79.t1","tig00022119.g79.t1.path1"],"Gene prediction","tig00022119.g79.t1","tig00022119_overlapping_hits_sub_region",37995,42004]

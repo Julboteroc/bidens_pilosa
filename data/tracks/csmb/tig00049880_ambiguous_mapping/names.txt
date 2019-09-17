@@ -1,1 +1,0 @@
-[["tig00049880.g3.t1","tig00049880.g3.t1.path1"],"csmb","tig00049880.g3.t1","tig00049880_ambiguous_mapping",222,3390]

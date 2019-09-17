@@ -1,0 +1,2 @@
+[["IDtig00097535.g72.t1.cds","IDtig00097535.g72.t1.cds.path1"],"Gene_prediction","IDtig00097535.g72.t1.cds","tig00097535_overlapping_hits_sub_region",12950,17256]
+[["IDtig00097535.g71.t1.cds","IDtig00097535.g71.t1.cds.path1"],"Gene_prediction","IDtig00097535.g71.t1.cds","tig00097535_overlapping_hits_sub_region",18925,20614]

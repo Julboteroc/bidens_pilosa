@@ -1,3 +1,0 @@
-[["tig00436492.g4.t1","tig00436492.g4.t1.path1"],"csmb","tig00436492.g4.t1","tig00436492_not_mapped",275,5153]
-[["tig00436492.g5.t1","tig00436492.g5.t1.path1"],"csmb","tig00436492.g5.t1","tig00436492_not_mapped",5655,8349]
-[["tig00436492.g6.t1","tig00436492.g6.t1.path1"],"csmb","tig00436492.g6.t1","tig00436492_not_mapped",8571,9264]

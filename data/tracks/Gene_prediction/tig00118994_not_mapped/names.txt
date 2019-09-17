@@ -1,0 +1,3 @@
+[["IDtig00118994.g60.t1.cds","IDtig00118994.g60.t1.cds.path1"],"Gene_prediction","IDtig00118994.g60.t1.cds","tig00118994_not_mapped",2046,7348]
+[["IDtig00118994.g61.t1.cds","IDtig00118994.g61.t1.cds.path1"],"Gene_prediction","IDtig00118994.g61.t1.cds","tig00118994_not_mapped",8368,9528]
+[["IDtig00118994.g62.t1.cds","IDtig00118994.g62.t1.cds.path1"],"Gene_prediction","IDtig00118994.g62.t1.cds","tig00118994_not_mapped",11818,12538]

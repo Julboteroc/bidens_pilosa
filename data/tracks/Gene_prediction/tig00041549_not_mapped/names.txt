@@ -1,0 +1,6 @@
+[["IDtig00041549.g59.t1.cds","IDtig00041549.g59.t1.cds.path1"],"Gene_prediction","IDtig00041549.g59.t1.cds","tig00041549_not_mapped",2546,3799]
+[["IDtig00041549.g60.t1.cds","IDtig00041549.g60.t1.cds.path1"],"Gene_prediction","IDtig00041549.g60.t1.cds","tig00041549_not_mapped",5268,6501]
+[["IDtig00041549.g61.t1.cds","IDtig00041549.g61.t1.cds.path1"],"Gene_prediction","IDtig00041549.g61.t1.cds","tig00041549_not_mapped",10874,11803]
+[["IDtig00041549.g62.t1.cds","IDtig00041549.g62.t1.cds.path1"],"Gene_prediction","IDtig00041549.g62.t1.cds","tig00041549_not_mapped",15197,16082]
+[["IDtig00041549.g63.t1.cds","IDtig00041549.g63.t1.cds.path1"],"Gene_prediction","IDtig00041549.g63.t1.cds","tig00041549_not_mapped",21902,22609]
+[["IDtig00041549.g64.t1.cds","IDtig00041549.g64.t1.cds.path1"],"Gene_prediction","IDtig00041549.g64.t1.cds","tig00041549_not_mapped",35764,38338]

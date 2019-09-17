@@ -1,2 +1,0 @@
-[["tig00029883.g78.t1","tig00029883.g78.t1.path1"],"csmb_2","tig00029883.g78.t1","tig00029883_overlapping_hits_sub_region",937,2960]
-[["tig00029883.g77.t1","tig00029883.g77.t1.path1"],"csmb_2","tig00029883.g77.t1","tig00029883_overlapping_hits_sub_region",3165,4674]

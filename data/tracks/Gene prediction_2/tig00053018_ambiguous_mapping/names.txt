@@ -1,1 +1,0 @@
-[["tig00053018.g101.t1","tig00053018.g101.t1.path1"],"Gene prediction_2","tig00053018.g101.t1","tig00053018_ambiguous_mapping",1089,1966]

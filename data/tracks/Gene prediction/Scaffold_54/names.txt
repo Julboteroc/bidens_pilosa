@@ -1,4 +1,0 @@
-[["tig00022947.g15.t1","tig00022947.g15.t1.path1"],"Gene prediction","tig00022947.g15.t1","Scaffold_54",3792,6620]
-[["tig00022947.g14.t1","tig00022947.g14.t1.path1"],"Gene prediction","tig00022947.g14.t1","Scaffold_54",9461,10694]
-[["tig00022947.g13.t1","tig00022947.g13.t1.path1"],"Gene prediction","tig00022947.g13.t1","Scaffold_54",11432,15084]
-[["tig00026961.g14.t1","tig00026961.g14.t1.path1"],"Gene prediction","tig00026961.g14.t1","Scaffold_54",13074,14766]

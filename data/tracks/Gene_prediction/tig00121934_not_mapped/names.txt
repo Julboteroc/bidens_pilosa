@@ -1,0 +1,1 @@
+[["IDtig00121934.g88.t1.cds","IDtig00121934.g88.t1.cds.path1"],"Gene_prediction","IDtig00121934.g88.t1.cds","tig00121934_not_mapped",5140,5495]

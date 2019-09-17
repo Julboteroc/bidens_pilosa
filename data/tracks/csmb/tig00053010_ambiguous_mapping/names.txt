@@ -1,2 +1,0 @@
-[["tig00053008.g85.t1","tig00053008.g85.t1.path1"],"csmb","tig00053008.g85.t1","tig00053010_ambiguous_mapping",471,4480]
-[["tig00436788.g124.t1","tig00436788.g124.t1.path1"],"csmb","tig00436788.g124.t1","tig00053010_ambiguous_mapping",471,4480]

@@ -1,0 +1,1 @@
+[["ec:1.11.1.7.cds","IDtig00013071.g10.t1.cds.path1"],"IDtig00013071.g10.t1","ec:1.11.1.7.cds","tig00013071_overlapping_hits_sub_region",7951,9116]

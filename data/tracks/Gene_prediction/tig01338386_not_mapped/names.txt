@@ -1,0 +1,2 @@
+[["IDtig01338386.g135.t1.cds","IDtig01338386.g135.t1.cds.path1"],"Gene_prediction","IDtig01338386.g135.t1.cds","tig01338386_not_mapped",64,3755]
+[["IDtig01338386.g136.t1.cds","IDtig01338386.g136.t1.cds.path1"],"Gene_prediction","IDtig01338386.g136.t1.cds","tig01338386_not_mapped",12321,12727]

@@ -1,3 +1,0 @@
-[["tig00046331.g56.t1","tig00046331.g56.t1.path1"],"Gene prediction","tig00046331.g56.t1","tig00046331_overlapping_hits_sub_region",442,3674]
-[["tig00046331.g57.t1","tig00046331.g57.t1.path1"],"Gene prediction","tig00046331.g57.t1","tig00046331_overlapping_hits_sub_region",7539,8750]
-[["tig00046331.g58.t1","tig00046331.g58.t1.path1"],"Gene prediction","tig00046331.g58.t1","tig00046331_overlapping_hits_sub_region",9483,12119]

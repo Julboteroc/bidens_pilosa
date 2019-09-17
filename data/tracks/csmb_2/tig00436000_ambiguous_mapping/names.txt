@@ -1,5 +1,0 @@
-[["tig00436000.g68.t1","tig00436000.g68.t1.path1"],"csmb_2","tig00436000.g68.t1","tig00436000_ambiguous_mapping",3726,4523]
-[["tig00436000.g69.t1","tig00436000.g69.t1.path1"],"csmb_2","tig00436000.g69.t1","tig00436000_ambiguous_mapping",7150,10866]
-[["tig00436000.g70.t1","tig00436000.g70.t1.path1"],"csmb_2","tig00436000.g70.t1","tig00436000_ambiguous_mapping",13490,19297]
-[["tig00436000.g71.t1","tig00436000.g71.t1.path1"],"csmb_2","tig00436000.g71.t1","tig00436000_ambiguous_mapping",20823,21257]
-[["tig00436000.g72.t1","tig00436000.g72.t1.path1"],"csmb_2","tig00436000.g72.t1","tig00436000_ambiguous_mapping",24834,27028]

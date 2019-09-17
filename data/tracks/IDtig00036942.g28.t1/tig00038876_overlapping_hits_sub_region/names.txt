@@ -1,0 +1,1 @@
+[["Antimicrobial_Peptide.cds","IDtig00038876.g44.t1.cds.path1"],"IDtig00036942.g28.t1","Antimicrobial_Peptide.cds","tig00038876_overlapping_hits_sub_region",22898,23183]

@@ -1,0 +1,2 @@
+[["IDtig00025009.g98.t1.cds","IDtig00025009.g98.t1.cds.path1"],"Gene_prediction","IDtig00025009.g98.t1.cds","Scaffold_158",25389,28169]
+[["IDtig00025009.g97.t1.cds","IDtig00025009.g97.t1.cds.path1"],"Gene_prediction","IDtig00025009.g97.t1.cds","Scaffold_158",45842,49882]

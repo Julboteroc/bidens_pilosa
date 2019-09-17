@@ -1,7 +1,0 @@
-[["tig00437014.g42.t1","tig00437014.g42.t1.path1"],"Gene prediction_2","tig00437014.g42.t1","Scaffold_55",1282,8629]
-[["tig00017403.g141.t1","tig00017403.g141.t1.path1"],"Gene prediction_2","tig00017403.g141.t1","Scaffold_55",16086,16258]
-[["tig00017403.g142.t1","tig00017403.g142.t1.path1"],"Gene prediction_2","tig00017403.g142.t1","Scaffold_55",20781,23964]
-[["tig00017403.g143.t1","tig00017403.g143.t1.path1"],"Gene prediction_2","tig00017403.g143.t1","Scaffold_55",24321,25903]
-[["tig00017403.g144.t1","tig00017403.g144.t1.path1"],"Gene prediction_2","tig00017403.g144.t1","Scaffold_55",28439,29930]
-[["tig00017403.g145.t1","tig00017403.g145.t1.path1"],"Gene prediction_2","tig00017403.g145.t1","Scaffold_55",35409,37313]
-[["tig00017403.g146.t1","tig00017403.g146.t1.path1"],"Gene prediction_2","tig00017403.g146.t1","Scaffold_55",43004,46998]

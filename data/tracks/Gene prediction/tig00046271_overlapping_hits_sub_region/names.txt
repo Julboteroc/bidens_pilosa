@@ -1,3 +1,0 @@
-[["tig00046271.g1.t1","tig00046271.g1.t1.path1"],"Gene prediction","tig00046271.g1.t1","tig00046271_overlapping_hits_sub_region",8961,10284]
-[["tig00046271.g2.t1","tig00046271.g2.t1.path1"],"Gene prediction","tig00046271.g2.t1","tig00046271_overlapping_hits_sub_region",12549,14241]
-[["tig00046271.g3.t1","tig00046271.g3.t1.path1"],"Gene prediction","tig00046271.g3.t1","tig00046271_overlapping_hits_sub_region",16115,17384]

@@ -1,0 +1,1 @@
+[["IDtig00012538.g86.t1.cds","IDtig00012538.g86.t1.cds.path1"],"IDtig00012538.g86.t1","IDtig00012538.g86.t1.cds","Scaffold_24",988364,991903]

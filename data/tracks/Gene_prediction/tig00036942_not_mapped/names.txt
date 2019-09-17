@@ -1,0 +1,4 @@
+[["IDtig00036942.g28.t1.cds","IDtig00036942.g28.t1.cds.path1"],"Gene_prediction","IDtig00036942.g28.t1.cds","tig00036942_not_mapped",8458,10070]
+[["IDtig00036942.g29.t1.cds","IDtig00036942.g29.t1.cds.path1"],"Gene_prediction","IDtig00036942.g29.t1.cds","tig00036942_not_mapped",19487,19895]
+[["IDtig00036942.g30.t1.cds","IDtig00036942.g30.t1.cds.path1"],"Gene_prediction","IDtig00036942.g30.t1.cds","tig00036942_not_mapped",20940,22514]
+[["IDtig00036942.g31.t1.cds","IDtig00036942.g31.t1.cds.path1"],"Gene_prediction","IDtig00036942.g31.t1.cds","tig00036942_not_mapped",25898,30541]

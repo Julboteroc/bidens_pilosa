@@ -1,2 +1,0 @@
-[["tig00017924.g121.t1","tig00017924.g121.t1.path1"],"Gene prediction","tig00017924.g121.t1","tig00017924_overlapping_hits_sub_region",6818,10580]
-[["tig00017924.g122.t1","tig00017924.g122.t1.path1"],"Gene prediction","tig00017924.g122.t1","tig00017924_overlapping_hits_sub_region",16333,19076]

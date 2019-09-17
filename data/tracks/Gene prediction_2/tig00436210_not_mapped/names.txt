@@ -1,2 +1,0 @@
-[["tig00436210.g10.t1","tig00436210.g10.t1.path1"],"Gene prediction_2","tig00436210.g10.t1","tig00436210_not_mapped",55,2305]
-[["tig00436210.g11.t1","tig00436210.g11.t1.path1"],"Gene prediction_2","tig00436210.g11.t1","tig00436210_not_mapped",2500,9827]

@@ -1,0 +1,1 @@
+[["IDtig00095927.g108.t1.cds","IDtig00095927.g108.t1.cds.path1"],"Gene_prediction","IDtig00095927.g108.t1.cds","tig00095927_overlapping_hits_sub_region",3130,5075]

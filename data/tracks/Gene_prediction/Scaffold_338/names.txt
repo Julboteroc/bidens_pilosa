@@ -1,0 +1,1 @@
+[["IDtig00127962.g107.t1.cds","IDtig00127962.g107.t1.cds.path1"],"Gene_prediction","IDtig00127962.g107.t1.cds","Scaffold_338",1027,4874]

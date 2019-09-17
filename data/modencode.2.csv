@@ -1,0 +1,286 @@
+label,key,Annotation,Product,Pathway
+IDtig00000595.g97.t1,IDtig00000595.g97.t1,tig00000595_overlapping_hits_sub_region:6601:5,Antimicrobial_peptide,-
+IDtig00001424.g20.t1,IDtig00001424.g20.t1,Scaffold_15:419971:5,Antimicrobial_peptide,-
+IDtig00001921.g36.t1,IDtig00001921.g36.t1,Scaffold_31:2360202:5,Antimicrobial_peptide,-
+IDtig00006613.g39.t1,IDtig00006613.g39.t1,tig00006613_overlapping_hits_sub_region:40995:5,Antimicrobial_peptide,-
+IDtig00007668.g119.t1,IDtig00007668.g119.t1,tig00007668_overlapping_hits_sub_region:18519:5,Antimicrobial_peptide,-
+IDtig00008454.g31.t1,IDtig00008454.g31.t1,Scaffold_68:1653549:5,Antimicrobial_peptide,-
+IDtig00009103.g32.t1,IDtig00009103.g32.t1,Scaffold_25:760692:5,Antimicrobial_peptide,-
+IDtig00010179.g124.t1,IDtig00010179.g124.t1,tig00010179_overlapping_hits_sub_region:62583:5,Antimicrobial_peptide,-
+IDtig00010591.g128.t1,IDtig00010591.g128.t1,tig00010591_overlapping_hits_sub_region:57797:5,Antimicrobial_peptide,-
+IDtig00010639.g41.t1,IDtig00010639.g41.t1,tig00010639_overlapping_hits_sub_region:19533:5,Antimicrobial_peptide,-
+IDtig00012656.g127.t1,IDtig00012656.g127.t1,Scaffold_226:129394:5,Antimicrobial_peptide,-
+IDtig00012883.g68.t1,IDtig00012883.g68.t1,tig00025300_overlapping_hits_sub_region:8423:5,Antimicrobial_peptide,-
+IDtig00012919.g83.t1,IDtig00012919.g83.t1,Scaffold_52:164256:5,Antimicrobial_peptide,-
+IDtig00013414.g15.t1,IDtig00013414.g15.t1,tig00013414_overlapping_hits_sub_region:91374:5,Antimicrobial_peptide,-
+IDtig00013711.g124.t1,IDtig00013711.g124.t1,tig00013711_overlapping_hits_sub_region:107685:5,Antimicrobial_peptide,-
+IDtig00014179.g123.t1,IDtig00014179.g123.t1,tig00014179_overlapping_hits_sub_region:8876:5,Antimicrobial_peptide,-
+IDtig00014694.g48.t1,IDtig00014694.g48.t1,tig00014694_overlapping_hits_sub_region:6994:5,Antimicrobial_peptide,-
+IDtig00015758.g76.t1,IDtig00015758.g76.t1,tig00015758_overlapping_hits_sub_region:37054:5,Antimicrobial_peptide,-
+IDtig00015893.g56.t1,IDtig00015893.g56.t1,Scaffold_85:2744702:5,Antimicrobial_peptide,-
+IDtig00017134.g98.t1,IDtig00017134.g98.t1,tig00017134_not_mapped:40154:5,Antimicrobial_peptide,-
+IDtig00019949.g75.t1,IDtig00019949.g75.t1,tig00019949_not_mapped:40827:5,Antimicrobial_peptide,-
+IDtig00023206.g101.t1,IDtig00023206.g101.t1,Scaffold_321:37648:5,Antimicrobial_peptide,-
+IDtig00023851.g30.t1,IDtig00023851.g30.t1,Scaffold_8:2574281:5,Antimicrobial_peptide,-
+IDtig00024882.g91.t1,IDtig00024882.g91.t1,Scaffold_31:1782716:5,Antimicrobial_peptide,-
+IDtig00024985.g61.t1,IDtig00024985.g61.t1,tig00024985_overlapping_hits_sub_region:31024:5,Antimicrobial_peptide,-
+IDtig00029910.g72.t1,IDtig00029910.g72.t1,Scaffold_104:1538443:5,Antimicrobial_peptide,-
+IDtig00029917.g106.t1,IDtig00029917.g106.t1,tig00029917_overlapping_hits_sub_region:35695:5,Antimicrobial_peptide,-
+IDtig00032681.g38.t1,IDtig00032681.g38.t1,tig00032681_overlapping_hits_sub_region:39684:5,Antimicrobial_peptide,-
+IDtig00032894.g22.t1,IDtig00032894.g22.t1,tig00032894_overlapping_hits_sub_region:37716:5,Antimicrobial_peptide,-
+IDtig00033042.g85.t1,IDtig00033042.g85.t1,tig00033042_not_mapped:21864:5,Antimicrobial_peptide,-
+IDtig00036671.g107.t1,IDtig00036671.g107.t1,tig00036671_not_mapped:11443:5,Antimicrobial_peptide,-
+IDtig00036934.g10.t1,IDtig00036934.g10.t1,Scaffold_37:875821:5,Antimicrobial_peptide,-
+IDtig00036942.g28.t1,IDtig00036942.g28.t1,tig00036942_not_mapped:8459:5,Antimicrobial_peptide,-
+IDtig00038876.g44.t1,IDtig00038876.g44.t1,tig00038876_overlapping_hits_sub_region:22899:5,Antimicrobial_peptide,-
+IDtig00108009.g131.t1,IDtig00108009.g131.t1,tig00108009_not_mapped:14535:5,Antimicrobial_peptide,-
+IDtig00116375.g77.t1,IDtig00116375.g77.t1,tig00116375_not_mapped:352:5,Antimicrobial_peptide,-
+IDtig00119456.g41.t1,IDtig00119456.g41.t1,tig00119456_not_mapped:8991:5,Antimicrobial_peptide,-
+IDtig00121934.g88.t1,IDtig00121934.g88.t1,tig00121934_not_mapped:5141:5,Antimicrobial_peptide,-
+IDtig00150627.g35.t1,IDtig00150627.g35.t1,tig00150627_not_mapped:389:5,Antimicrobial_peptide,-
+IDtig00166910.g102.t1,IDtig00166910.g102.t1,tig00166910_overlapping_hits_sub_region:4488:5,Antimicrobial_peptide,-
+IDtig00176295.g108.t1,IDtig00176295.g108.t1,Scaffold_20:7653401:5,Antimicrobial_peptide,-
+IDtig00179602.g1.t1,IDtig00179602.g1.t1,tig00179602_overlapping_hits_sub_region:12948:5,Antimicrobial_peptide,-
+IDtig00183537.g94.t1,IDtig00183537.g94.t1,tig00183537_not_mapped:8531:5,Antimicrobial_peptide,-
+IDtig01338386.g136.t1,IDtig01338386.g136.t1,tig01338386_not_mapped:12322:5,Antimicrobial_peptide,-
+IDtig01338845.g39.t1,IDtig01338845.g39.t1,Scaffold_128:172874:5,Antimicrobial_peptide,-
+IDtig01339098.g126.t1,IDtig01339098.g126.t1,Scaffold_5:7082524:5,Antimicrobial_peptide,-
+IDtig01340019.g51.t1,IDtig01340019.g51.t1,tig01340019_overlapping_hits_sub_region:2756:5,Antimicrobial_peptide,-
+IDtig01340277.g31.t1,IDtig01340277.g31.t1,Scaffold_7:3582698:5,Antimicrobial_peptide,-
+IDtig01342363.g46.t1,IDtig01342363.g46.t1,tig01342363_overlapping_hits_sub_region:17312:5,Antimicrobial_peptide,-
+IDtig01343999.g46.t1,IDtig01343999.g46.t1,tig01343999_not_mapped:7387:5,Antimicrobial_peptide,-
+IDtig01345470.g54.t1,IDtig01345470.g54.t1,tig01345470_not_mapped:2776:5,Antimicrobial_peptide,-
+IDtig01346214.g48.t1,IDtig01346214.g48.t1,tig01346214_not_mapped:12671:5,Antimicrobial_peptide,-
+IDtig01346966.g41.t1,IDtig01346966.g41.t1,tig01346966_not_mapped:11235:5,Antimicrobial_peptide,-
+DNA,Reference,DNA,DNA,-
+IDtig00000070.g6.t1,IDtig00000070.g6.t1,tig00000070_overlapping_hits_sub_region:27349-28768,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00000349.g138.t1,IDtig00000349.g138.t1,tig00026472_overlapping_hits_sub_region:31198-32840,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00000349.g151.t1,IDtig00000349.g151.t1,tig00067197_overlapping_hits_sub_region:413-1832,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00000794.g93.t1,IDtig00000794.g93.t1,Scaffold_21:6494387-6495743,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00001157.g31.t1,IDtig00001157.g31.t1,tig00001157_overlapping_hits_sub_region:152110-157748,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00001209.g58.t1,IDtig00001209.g58.t1,tig00001209_overlapping_hits_sub_region:160615-161996,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00001209.g59.t1,IDtig00001209.g59.t1,tig00001209_overlapping_hits_sub_region:163745-166046,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00001332.g90.t1,IDtig00001332.g90.t1,Scaffold_15:2685763-2691804,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00001334.g99.t1,IDtig00001334.g99.t1,Scaffold_311:115733-121121,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00001488.g69.t1,IDtig00001488.g69.t1,Scaffold_151:1135172-1135666,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00001567.g135.t1,IDtig00001567.g135.t1,Scaffold_162:632443-637097,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00001654.g147.t1,IDtig00001654.g147.t1,Scaffold_124:914293-916503,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00001855.g53.t1,IDtig00001855.g53.t1,Scaffold_2:8247751-8249983,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00001909.g71.t1,IDtig00001909.g71.t1,Scaffold_1:6507072-6509037,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00001931.g130.t1,IDtig00001931.g130.t1,Scaffold_1:10263243-10265979,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00002416.g99.t1,IDtig00002416.g99.t1,tig00002416_overlapping_hits_sub_region:7995-11491,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00002600.g136.t1,IDtig00002600.g136.t1,tig00002600_overlapping_hits_sub_region:9041-10182,ec:1.2.1.44,Phenylpropanoid Bipsynthesis
+IDtig00002600.g137.t1,IDtig00002600.g137.t1,tig00002600_overlapping_hits_sub_region:11920-13051,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00003405.g48.t1,IDtig00003405.g48.t1,Scaffold_69:2520136-2521624,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00003494.g137.t1,IDtig00003494.g137.t1,tig00003494_overlapping_hits_sub_region:13182-14931,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00003574.g63.t1,IDtig00003574.g63.t1,tig00003574_overlapping_hits_sub_region:739-4053,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00003865.g86.t1,IDtig00003865.g86.t1,tig00003865_overlapping_hits_sub_region:136952-143449,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00004550.g123.t1,IDtig00004550.g123.t1,Scaffold_67:1469233-1471804,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00004788.g44.t1,IDtig00004788.g44.t1,tig00004788_overlapping_hits_sub_region:10231-10437,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00005022.g12.t1,IDtig00005022.g12.t1,tig00005022_overlapping_hits_sub_region:25945-26223,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00005100.g78.t1,IDtig00005100.g78.t1,tig00005100_overlapping_hits_sub_region:17087-19295,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00005204.g50.t1,IDtig00005204.g50.t1,Scaffold_5:10860831-10861971,ec:4.3.1.25,Phenylpropanoid Bipsynthesis
+IDtig00005204.g51.t1,IDtig00005204.g51.t1,Scaffold_5:10865049-10867980,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00005229.g132.t1,IDtig00005229.g132.t1,Scaffold_16:205690-207050,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00005497.g91.t1,IDtig00005497.g91.t1,Scaffold_98:506775-508759,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00005546.g51.t1,IDtig00005546.g51.t1,Scaffold_38:213039-224008,ec:3.2.1.21,Phenylpropanoid Bipsynthesis
+IDtig00005961.g70.t1,IDtig00005961.g70.t1,Scaffold_13:967148-972448,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00006140.g76.t1,IDtig00006140.g76.t1,tig00006140_overlapping_hits_sub_region:17234-18863,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00006453.g136.t1,IDtig00006453.g136.t1,Scaffold_67:1551573-1555176,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00006522.g14.t1,IDtig00006522.g14.t1,Scaffold_4:5329283-5330886,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00006585.g4.t1,IDtig00006585.g4.t1,Scaffold_43:337301-338406,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00006585.g6.t1,IDtig00006585.g6.t1,Scaffold_43:348140-349284,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00006585.g7.t1,IDtig00006585.g7.t1,Scaffold_43:351632-352772,ec:2.3.1.133,Phenylpropanoid Bipsynthesis
+IDtig00006585.g8.t1,IDtig00006585.g8.t1,Scaffold_43:355845-356988,ec:4.3.1.25,Phenylpropanoid Bipsynthesis
+IDtig00006712.g8.t1,IDtig00006712.g8.t1,tig00006712_overlapping_hits_sub_region:7477-9716,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00006746.g27.t1,IDtig00006746.g27.t1,Scaffold_20:3814714-3819501,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00006833.g72.t1,IDtig00006833.g72.t1,Scaffold_1:3890571-3891618,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00007342.g112.t1,IDtig00007342.g112.t1,tig00007342_overlapping_hits_sub_region:26971-35508,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00007552.g102.t1,IDtig00007552.g102.t1,Scaffold_69:4434096-4436192,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00007685.g100.t1,IDtig00007685.g100.t1,Scaffold_311:115733-118903,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00007721.g156.t1,IDtig00007721.g156.t1,Scaffold_125:2821164-2824312,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00007727.g18.t1,IDtig00007727.g18.t1,Scaffold_126:1626258-1626977,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00007767.g53.t1,IDtig00007767.g53.t1,Scaffold_65:775037-775417,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00007920.g69.t1,IDtig00007920.g69.t1,Scaffold_348:273627-274654,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00008349.g51.t1,IDtig00008349.g51.t1,Scaffold_112:1299947-1301637,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00008435.g89.t1,IDtig00008435.g89.t1,tig00008435_overlapping_hits_sub_region:38459-43974,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00008555.g1.t1,IDtig00008555.g1.t1,tig00008555_overlapping_hits_sub_region:22353-33477,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00008577.g102.t1,IDtig00008577.g102.t1,tig00008577_overlapping_hits_sub_region:1956-3209,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00008628.g66.t1,IDtig00008628.g66.t1,tig00008628_overlapping_hits_sub_region:256-2126,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00009125.g122.t1,IDtig00009125.g122.t1,tig00009125_overlapping_hits_sub_region:25933-29040,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00009125.g125.t1,IDtig00009125.g125.t1,tig00009125_overlapping_hits_sub_region:53169-54247,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00009555.g136.t1,IDtig00009555.g136.t1,tig00009555_overlapping_hits_sub_region:5677-11882,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00010335.g56.t1,IDtig00010335.g56.t1,tig00010335_overlapping_hits_sub_region:51768-52963,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00010635.g29.t1,IDtig00010635.g29.t1,Scaffold_113:3868312-3870519,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00011302.g52.t1,IDtig00011302.g52.t1,Scaffold_1:6084517-6086407,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00011442.g123.t1,IDtig00011442.g123.t1,tig00011442_overlapping_hits_sub_region:7531-8337,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00011489.g25.t1,IDtig00011489.g25.t1,tig00011489_overlapping_hits_sub_region:13710-14626,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00011489.g26.t1,IDtig00011489.g26.t1,tig00011489_overlapping_hits_sub_region:18493-18684,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00011729.g99.t1,IDtig00011729.g99.t1,Scaffold_58:4486511-4487401,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00011734.g122.t1,IDtig00011734.g122.t1,tig00011734_overlapping_hits_sub_region:18519-20439,ec:2.3.1.133,Phenylpropanoid Bipsynthesis
+IDtig00011940.g35.t1,IDtig00011940.g35.t1,tig00011940_overlapping_hits_sub_region:39639-40886,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00011940.g36.t1,IDtig00011940.g36.t1,tig00011940_overlapping_hits_sub_region:34203-35455,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00012538.g86.t1,IDtig00012538.g86.t1,Scaffold_24:988365-991903,IDtig00012538.g86.t1,Phenylpropanoid Bipsynthesis
+IDtig00012560.g63.t1,IDtig00012560.g63.t1,tig00012560_overlapping_hits_sub_region:53027-54778,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00012716.g91.t1,IDtig00012716.g91.t1,Scaffold_7:1990748-1993315,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00012740.g51.t1,IDtig00012740.g51.t1,tig00012740_overlapping_hits_sub_region:44399-45936,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00012761.g14.t1,IDtig00012761.g14.t1,Scaffold_20:3749948-3754786,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00012859.g138.t1,IDtig00012859.g138.t1,Scaffold_1:6590047-6592028,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00013071.g10.t1,IDtig00013071.g10.t1,tig00013071_overlapping_hits_sub_region:7952-9116,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00013135.g101.t1,IDtig00013135.g101.t1,Scaffold_258:83425-85563,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00013436.g71.t1,IDtig00013436.g71.t1,tig00013436_overlapping_hits_sub_region:4988-6294,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00013669.g92.t1,IDtig00013669.g92.t1,tig00013669_overlapping_hits_sub_region:13632-15165,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00013708.g96.t1,IDtig00013708.g96.t1,tig00014521_overlapping_hits_sub_region:8158-9685,ec:4.3.1.25,Phenylpropanoid Bipsynthesis
+IDtig00014142.g95.t1,IDtig00014142.g95.t1,tig00014142_overlapping_hits_sub_region:27295-32646,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00014203.g82.t1,IDtig00014203.g82.t1,Scaffold_86:3580478-3586572,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00014416.g67.t1,IDtig00014416.g67.t1,tig00014416_overlapping_hits_sub_region:69260-71170,ec:1.2.1.44,Phenylpropanoid Bipsynthesis
+IDtig00014485.g22.t1,IDtig00014485.g22.t1,Scaffold_110:8561820-8567315,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00014521.g30.t1,IDtig00014521.g30.t1,tig00014521_overlapping_hits_sub_region:8066-9829,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00014825.g119.t1,IDtig00014825.g119.t1,Scaffold_98:4526747-4532242,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00015160.g31.t1,IDtig00015160.g31.t1,tig00015160_overlapping_hits_sub_region:2590-3690,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00015668.g22.t1,IDtig00015668.g22.t1,tig00015668_overlapping_hits_sub_region:11196-13044,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00015668.g23.t1,IDtig00015668.g23.t1,tig00015668_overlapping_hits_sub_region:13903-14298,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00015767.g88.t1,IDtig00015767.g88.t1,Scaffold_5:6883111-6883350,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00016715.g95.t1,IDtig00016715.g95.t1,Scaffold_123:229799-230775,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00016715.g96.t1,IDtig00016715.g96.t1,Scaffold_123:221868-223658,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00016883.g31.t1,IDtig00016883.g31.t1,tig00016883_not_mapped:12551-14365,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00016924.g81.t1,IDtig00016924.g81.t1,tig00016924_overlapping_hits_sub_region:47428-60142,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00017093.g73.t1,IDtig00017093.g73.t1,Scaffold_120:2332549-2335046,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00017114.g31.t1,IDtig00017114.g31.t1,Scaffold_40:405142-405598,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00017502.g117.t1,IDtig00017502.g117.t1,tig00017502_overlapping_hits_sub_region:29937-31668,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00017819.g74.t1,IDtig00017819.g74.t1,tig00011734_overlapping_hits_sub_region:28229-28450,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00018065.g64.t1,IDtig00018065.g64.t1,Scaffold_47:3258564-3259367,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00018101.g4.t1,IDtig00018101.g4.t1,tig00018101_overlapping_hits_sub_region:6816-9048,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00018220.g127.t1,IDtig00018220.g127.t1,tig00018220_overlapping_hits_sub_region:21951-32368,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00018781.g53.t1,IDtig00018781.g53.t1,tig00018781_overlapping_hits_sub_region:35821-37723,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00019242.g55.t1,IDtig00019242.g55.t1,Scaffold_108:9197032-9198677,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00019267.g58.t1,IDtig00019267.g58.t1,Scaffold_20:10002046-10002499,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00019829.g134.t1,IDtig00019829.g134.t1,tig00019829_overlapping_hits_sub_region:4475-6360,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00019829.g134.t1.-1,IDtig00019829.g134.t1.-1,tig00019829_overlapping_hits_sub_region:4475-6360.-1,ec:1.11.1.7-1,Phenylpropanoid Bipsynthesis
+IDtig00019849.g20.t1,IDtig00019849.g20.t1,Scaffold_39:472924-474597,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00020112.g21.t1,IDtig00020112.g21.t1,Scaffold_110:4998975-5010238,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00020781.g65.t1,IDtig00020781.g65.t1,tig00020781_overlapping_hits_sub_region:20359-21935,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00020846.g15.t1,IDtig00020846.g15.t1,tig00020846_overlapping_hits_sub_region:9858-11211,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00020887.g121.t1,IDtig00020887.g121.t1,tig00020887_overlapping_hits_sub_region:7014-10984,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00021770.g118.t1,IDtig00021770.g118.t1,tig00021770_overlapping_hits_sub_region:51187-52247,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00021933.g115.t1,IDtig00021933.g115.t1,tig00021933_overlapping_hits_sub_region:5448-6988,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00021933.g116.t1,IDtig00021933.g116.t1,tig00021933_overlapping_hits_sub_region:8783-10497,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00021933.g118.t1,IDtig00021933.g118.t1,tig00021933_overlapping_hits_sub_region:15628-19527,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00022233.g38.t1,IDtig00022233.g38.t1,tig00022233_overlapping_hits_sub_region:57554-58390,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00022447.g117.t1,IDtig00022447.g117.t1,tig00022447_overlapping_hits_sub_region:26217-30944,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00023347.g63.t1,IDtig00023347.g63.t1,Scaffold_2:7893314-7895287,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00024719.g48.t1,IDtig00024719.g48.t1,tig00024719_overlapping_hits_sub_region:1472-7477,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00026326.g21.t1,IDtig00026326.g21.t1,tig00026326_overlapping_hits_sub_region:49793-51994,ec:3.2.1.21,Phenylpropanoid Bipsynthesis
+IDtig00027182.g100.t1,IDtig00027182.g100.t1,tig00027182_overlapping_hits_sub_region:52685-53691,ec:6.2.1.12,Phenylpropanoid Bipsynthesis
+IDtig00027220.g65.t1,IDtig00027220.g65.t1,Scaffold_340:16386-17859,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00027423.g89.t1,IDtig00027423.g89.t1,Scaffold_119:3421587-3427115,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00027884.g113.t1,IDtig00027884.g113.t1,tig00027884_overlapping_hits_sub_region:21068-26347,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00028473.g40.t1,IDtig00028473.g40.t1,Scaffold_126:4840339-4846644,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00029332.g107.t1,IDtig00029332.g107.t1,Scaffold_1:6133270-6135170,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00029478.g76.t1,IDtig00029478.g76.t1,Scaffold_21:2254849-2256148,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00029694.g156.t1,IDtig00029694.g156.t1,Scaffold_256:17042-22945,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00030365.g90.t1,IDtig00030365.g90.t1,tig00030365_overlapping_hits_sub_region:42748-42903,ec:1.2.1.44,Phenylpropanoid Bipsynthesis
+IDtig00030742.g97.t1,IDtig00030742.g97.t1,tig00030742_overlapping_hits_sub_region:10848-13759,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00030761.g137.t1,IDtig00030761.g137.t1,tig00030761_overlapping_hits_sub_region:7714-8821,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00030885.g58.t1,IDtig00030885.g58.t1,tig00030885_overlapping_hits_sub_region:1723-6454,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00032661.g112.t1,IDtig00032661.g112.t1,tig00032661_overlapping_hits_sub_region:1445-7520,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00033153.g42.t1,IDtig00033153.g42.t1,tig00033153_overlapping_hits_sub_region:6290-7503,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00033153.g45.t1,IDtig00033153.g45.t1,tig00033153_overlapping_hits_sub_region:28050-30050,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00033490.g78.t1,IDtig00033490.g78.t1,tig00033490_overlapping_hits_sub_region:18523-20423,ec:2.4.1.111,Phenylpropanoid Bipsynthesis
+IDtig00034030.g30.t1,IDtig00034030.g30.t1,tig00034030_overlapping_hits_sub_region:33982-35233,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00034030.g31.t1,IDtig00034030.g31.t1,tig00034030_overlapping_hits_sub_region:29033-30278,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00034314.g80.t1,IDtig00034314.g80.t1,Scaffold_77:1444303-1446152,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00034323.g100.t1,IDtig00034323.g100.t1,tig00034323_overlapping_hits_sub_region:17888-18531,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00035106.g56.t1,IDtig00035106.g56.t1,tig00035106_overlapping_hits_sub_region:5563-7523,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00037167.g114.t1,IDtig00037167.g114.t1,tig00037167_not_mapped:9856-10934,ec:2.1.1.68,Phenylpropanoid Bipsynthesis
+IDtig00037167.g115.t1,IDtig00037167.g115.t1,tig00037167_not_mapped:15243-17601,ec:6.2.1.12,Phenylpropanoid Bipsynthesis
+IDtig00037206.g64.t1,IDtig00037206.g64.t1,tig00037206_not_mapped:24057-24350,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00038859.g19.t1,IDtig00038859.g19.t1,tig00038859_overlapping_hits_sub_region:20612-22283,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00038859.g20.t1,IDtig00038859.g20.t1,tig00038859_overlapping_hits_sub_region:36259-37371,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00038859.g21.t1,IDtig00038859.g21.t1,tig00038859_overlapping_hits_sub_region:42932-43980,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00039411.g134.t1,IDtig00039411.g134.t1,tig00039411_overlapping_hits_sub_region:20032-21235,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00040513.g13.t1,IDtig00040513.g13.t1,tig00040513_overlapping_hits_sub_region:20344-23663,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00041399.g97.t1,IDtig00041399.g97.t1,tig00041399_overlapping_hits_sub_region:34154-35457,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00041399.g98.t1,IDtig00041399.g98.t1,tig00041399_overlapping_hits_sub_region:38431-41577,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00041549.g62.t1,IDtig00041549.g62.t1,tig00041549_not_mapped:15198-16082,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00093681.g31.t1,IDtig00093681.g31.t1,tig00093681_not_mapped:6547-7059,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00094212.g43.t1,IDtig00094212.g43.t1,tig00094212_overlapping_hits_sub_region:6770-12954,ec:1.2.1.44,Phenylpropanoid Bipsynthesis
+IDtig00095927.g108.t1,IDtig00095927.g108.t1,tig00095927_overlapping_hits_sub_region:3131-5075,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00097535.g71.t1,IDtig00097535.g71.t1,tig00097535_overlapping_hits_sub_region:18926-20614,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00100309.g133.t1,IDtig00100309.g133.t1,tig00100309_overlapping_hits_sub_region:12373-14356,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00114388.g64.t1,IDtig00114388.g64.t1,tig00114388_not_mapped:12075-12411,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00118994.g61.t1,IDtig00118994.g61.t1,tig00118994_not_mapped:8369-9528,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00119461.g42.t1,IDtig00119461.g42.t1,tig00119461_not_mapped:2934-4479,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00119881.g147.t1,IDtig00119881.g147.t1,tig00119881_overlapping_hits_sub_region:1269-1631,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00120493.g23.t1,IDtig00120493.g23.t1,tig00120493_not_mapped:1923-2662,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00122505.g86.t1,IDtig00122505.g86.t1,tig00122505_not_mapped:13980-14817,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00123074.g92.t1,IDtig00123074.g92.t1,tig00123074_not_mapped:2604-3432,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00124773.g59.t1,IDtig00124773.g59.t1,tig00124773_not_mapped:9198-10856,ec:1.2.1.44,Phenylpropanoid Bipsynthesis
+IDtig00131161.g71.t1,IDtig00131161.g71.t1,tig00131161_overlapping_hits_sub_region:1309-3810,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00131161.g72.t1,IDtig00131161.g72.t1,tig00131161_overlapping_hits_sub_region:11154-12258,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00133252.g144.t1,IDtig00133252.g144.t1,tig00133252_not_mapped:3831-4538,ec:4.3.1.24,Phenylpropanoid Bipsynthesis
+IDtig00135999.g19.t1,IDtig00135999.g19.t1,tig00135999_overlapping_hits_sub_region:3078-3847,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00140704.g8.t1,IDtig00140704.g8.t1,tig00140704_overlapping_hits_sub_region:12661-15274,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00175538.g76.t1,IDtig00175538.g76.t1,tig00175538_overlapping_hits_sub_region:47555-49638,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00175543.g95.t1,IDtig00175543.g95.t1,Scaffold_33:1904255-1904512,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00175543.g96.t1,IDtig00175543.g96.t1,Scaffold_33:1902692-1903489,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00175986.g146.t1,IDtig00175986.g146.t1,tig00175986_overlapping_hits_sub_region:68054-78444,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00176050.g107.t1,IDtig00176050.g107.t1,Scaffold_290:75599-78022,ec:1.2.1.44,Phenylpropanoid Bipsynthesis
+IDtig00176050.g108.t1,IDtig00176050.g108.t1,Scaffold_290:71036-72212,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00176256.g133.t1,IDtig00176256.g133.t1,tig00176256_overlapping_hits_sub_region:20932-22684,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00176263.g163.t1,IDtig00176263.g163.t1,Scaffold_21:4694495-4697366,ec:2.1.1.68,Phenylpropanoid Bipsynthesis
+IDtig00176449.g21.t1,IDtig00176449.g21.t1,Scaffold_7:2376225-2377482,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00176558.g57.t1,IDtig00176558.g57.t1,tig00176558_overlapping_hits_sub_region:11236-12518,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00176765.g82.t1,IDtig00176765.g82.t1,tig00176765_overlapping_hits_sub_region:14651-16804,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00177307.g165.t1,IDtig00177307.g165.t1,Scaffold_126:4801963-4808271,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00177328.g103.t1,IDtig00177328.g103.t1,Scaffold_129:266184-268117,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00177506.g20.t1,IDtig00177506.g20.t1,tig00177506_overlapping_hits_sub_region:21937-24119,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00177911.g131.t1,IDtig00177911.g131.t1,tig00177911_overlapping_hits_sub_region:63411-64792,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00178428.g96.t1,IDtig00178428.g96.t1,tig00178428_overlapping_hits_sub_region:30899-32787,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00178507.g67.t1,IDtig00178507.g67.t1,tig00178507_overlapping_hits_sub_region:37030-37833,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00178637.g147.t1,IDtig00178637.g147.t1,tig00178637_overlapping_hits_sub_region:18593-19964,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00178637.g148.t1,IDtig00178637.g148.t1,tig00178637_overlapping_hits_sub_region:22257-23397,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00178637.g149.t1,IDtig00178637.g149.t1,tig00178637_overlapping_hits_sub_region:29034-32751,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00178637.g150.t1,IDtig00178637.g150.t1,tig00178637_overlapping_hits_sub_region:35729-36887,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00178782.g54.t1,IDtig00178782.g54.t1,Scaffold_64:605483-606805,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00178793.g103.t1,IDtig00178793.g103.t1,tig00178793_overlapping_hits_sub_region:24777-29696,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00179029.g145.t1,IDtig00179029.g145.t1,Scaffold_21:8424254-8426181,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00179544.g32.t1,IDtig00179544.g32.t1,tig00179544_overlapping_hits_sub_region:17949-19343,ec:6.2.1.12,Phenylpropanoid Bipsynthesis
+IDtig00179678.g70.t1,IDtig00179678.g70.t1,tig00179678_overlapping_hits_sub_region:9894-11202,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00179745.g106.t1,IDtig00179745.g106.t1,Scaffold_113:3786335-3787317,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00180265.g74.t1,IDtig00180265.g74.t1,tig00180265_overlapping_hits_sub_region:42092-44260,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00180654.g60.t1,IDtig00180654.g60.t1,Scaffold_88:1255829-1260348,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00180705.g116.t1,IDtig00180705.g116.t1,tig00180705_overlapping_hits_sub_region:24112-27114,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00180705.g117.t1,IDtig00180705.g117.t1,tig00180705_overlapping_hits_sub_region:15125-16937,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00180777.g138.t1,IDtig00180777.g138.t1,tig00180777_overlapping_hits_sub_region:12186-13266,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00181811.g57.t1,IDtig00181811.g57.t1,tig00181811_overlapping_hits_sub_region:34022-34529,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig00182071.g2.t1,IDtig00182071.g2.t1,Scaffold_99:77209-82362,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig00182238.g99.t1,IDtig00182238.g99.t1,tig00182238_overlapping_hits_sub_region:12181-15636,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig00182617.g4.t1,IDtig00182617.g4.t1,Scaffold_64:573569-574837,ec:4.3.1.24,Phenylpropanoid Bipsynthesis
+IDtig01338166.g134.t1,IDtig01338166.g134.t1,Scaffold_103:3146190-3149469,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig01338278.g10.t1,IDtig01338278.g10.t1,Scaffold_54:4611902-4613904,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01338278.g9.t1,IDtig01338278.g9.t1,Scaffold_54:4622851-4624024,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01338325.g71.t1,IDtig01338325.g71.t1,tig00050502_overlapping_hits_sub_region:12589-14452,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig01338588.g22.t1,IDtig01338588.g22.t1,Scaffold_11:1431943-1432844,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig01338665.g63.t1,IDtig01338665.g63.t1,tig01338665_overlapping_hits_sub_region:65788-69274,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01339413.g78.t1,IDtig01339413.g78.t1,tig01339413_overlapping_hits_sub_region:6632-8227,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig01339413.g79.t1,IDtig01339413.g79.t1,tig01339413_overlapping_hits_sub_region:11899-14966,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig01339689.g10.t1,IDtig01339689.g10.t1,Scaffold_73:7919347-7921495,ec:4.3.1.24,Phenylpropanoid Bipsynthesis
+IDtig01339800.g19.t1,IDtig01339800.g19.t1,tig01339800_not_mapped:3085-3273,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01339895.g122.t1,IDtig01339895.g122.t1,tig01339895_overlapping_hits_sub_region:3322-4497,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig01339896.g124.t1,IDtig01339896.g124.t1,tig01339896_overlapping_hits_sub_region:14207-16026,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01340030.g103.t1,IDtig01340030.g103.t1,tig01340030_overlapping_hits_sub_region:42999-44224,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01340085.g22.t1,IDtig01340085.g22.t1,tig01340085_overlapping_hits_sub_region:21020-22986,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01340086.g26.t1,IDtig01340086.g26.t1,tig01340086_overlapping_hits_sub_region:21196-24146,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig01340086.g27.t1,IDtig01340086.g27.t1,tig01340086_overlapping_hits_sub_region:17527-18952,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig01340086.g28.t1,IDtig01340086.g28.t1,tig01340086_overlapping_hits_sub_region:13738-15587,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01340086.g30.t1,IDtig01340086.g30.t1,tig01340086_overlapping_hits_sub_region:8780-9202,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01340849.g112.t1,IDtig01340849.g112.t1,tig01340849_overlapping_hits_sub_region:4753-7501,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig01341783.g48.t1,IDtig01341783.g48.t1,tig01341783_overlapping_hits_sub_region:23392-26330,ec:2.1.1.104,Phenylpropanoid Bipsynthesis
+IDtig01342162.g81.t1,IDtig01342162.g81.t1,tig01342162_overlapping_hits_sub_region:6946-8341,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig01342348.g14.t1,IDtig01342348.g14.t1,tig01342348_overlapping_hits_sub_region:21015-22926,ec:1.1.1.195,Phenylpropanoid Bipsynthesis
+IDtig01342691.g80.t1,IDtig01342691.g80.t1,Scaffold_127:12431-14858,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01345479.g69.t1,IDtig01345479.g69.t1,tig01345479_not_mapped:7094-8330,ec:2.3.1.99,Phenylpropanoid Bipsynthesis
+IDtig01345480.g70.t1,IDtig01345480.g70.t1,tig01345480_not_mapped:7125-8364,ec:4.3.1.25,Phenylpropanoid Bipsynthesis
+IDtig01346268.g125.t1,IDtig01346268.g125.t1,tig01346268_overlapping_hits_sub_region:826-3139,ec:1.11.1.7,Phenylpropanoid Bipsynthesis
+IDtig01346599.g85.t1,IDtig01346599.g85.t1,Scaffold_242:184351-185990,ec:1.11.1.7,Phenylpropanoid Bipsynthesis

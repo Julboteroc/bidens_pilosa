@@ -1,3 +1,0 @@
-[["tig00051335.g51.t1","tig00051335.g51.t1.path1"],"csmb_2","tig00051335.g51.t1","tig00051335_ambiguous_mapping",674,2890]
-[["tig00051336.g54.t1","tig00051336.g54.t1.path1"],"csmb_2","tig00051336.g54.t1","tig00051335_ambiguous_mapping",4311,8805]
-[["tig00051335.g52.t1","tig00051335.g52.t1.path1"],"csmb_2","tig00051335.g52.t1","tig00051335_ambiguous_mapping",5646,8805]

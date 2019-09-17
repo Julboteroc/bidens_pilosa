@@ -1,0 +1,7 @@
+[["IDtig00180988.g132.t1.cds","IDtig00180988.g132.t1.cds.path1"],"Gene_prediction","IDtig00180988.g132.t1.cds","Scaffold_49",1805,7758]
+[["IDtig00180988.g131.t1.cds","IDtig00180988.g131.t1.cds.path1"],"Gene_prediction","IDtig00180988.g131.t1.cds","Scaffold_49",9675,12070]
+[["IDtig00180988.g130.t1.cds","IDtig00180988.g130.t1.cds.path1"],"Gene_prediction","IDtig00180988.g130.t1.cds","Scaffold_49",15487,18148]
+[["IDtig00180988.g129.t1.cds","IDtig00180988.g129.t1.cds.path1"],"Gene_prediction","IDtig00180988.g129.t1.cds","Scaffold_49",18675,21300]
+[["IDtig01341263.g25.t1.cds","IDtig01341263.g25.t1.cds.path1"],"Gene_prediction","IDtig01341263.g25.t1.cds","Scaffold_49",47570,50435]
+[["IDtig01341263.g24.t1.cds","IDtig01341263.g24.t1.cds.path1"],"Gene_prediction","IDtig01341263.g24.t1.cds","Scaffold_49",53152,53353]
+[["IDtig01341263.g23.t1.cds","IDtig01341263.g23.t1.cds.path1"],"Gene_prediction","IDtig01341263.g23.t1.cds","Scaffold_49",62940,63417]

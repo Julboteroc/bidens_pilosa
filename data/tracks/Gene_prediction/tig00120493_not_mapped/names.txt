@@ -1,0 +1,1 @@
+[["IDtig00120493.g23.t1.cds","IDtig00120493.g23.t1.cds.path1"],"Gene_prediction","IDtig00120493.g23.t1.cds","tig00120493_not_mapped",1922,2662]

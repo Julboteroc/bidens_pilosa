@@ -1,1 +1,0 @@
-[["tig00437084.g85.t1","tig00437084.g85.t1.path1"],"Gene prediction","tig00437084.g85.t1","tig00437084_overlapping_hits_sub_region",6016,9406]
