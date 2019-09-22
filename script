@@ -1,0 +1,1 @@
+for i in 	IDtig00001909.g71.t1 IDtig00003574.g63.t1 IDtig00006140.g76.t1 IDtig00007342.g112.t1 IDtig00013436.g71.t1 IDtig00030742.g97.t1 IDtig00178793.g103.t1 IDtig01342162.g81.t1 IDtig01340849.g112.t1 IDtig01340030.g103.t1 ; do sudo bin/remove-track.pl --trackLabel $i --delete; done;

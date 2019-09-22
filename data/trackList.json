@@ -215,20 +215,6 @@
       {
          "compress" : 0,
          "gradient" : "true",
-         "key" : "IDtig00014179.g123.t1",
-         "label" : "IDtig00014179.g123.t1",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'coral' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig00014179.g123.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
          "key" : "IDtig00014694.g48.t1",
          "label" : "IDtig00014694.g48.t1",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
@@ -1046,29 +1032,6 @@
       {
          "compress" : 0,
          "gradient" : "true",
-         "key" : "IDtig00001909.g71.t1",
-         "label" : "IDtig00001909.g71.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig00001909.g71.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
          "key" : "IDtig00001931.g130.t1",
          "label" : "IDtig00001931.g130.t1",
          "menuTemplate" : [
@@ -1203,29 +1166,6 @@
          "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "urlTemplate" : "tracks/IDtig00003494.g137.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
-         "key" : "IDtig00003574.g63.t1",
-         "label" : "IDtig00003574.g63.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig00003574.g63.t1/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -1483,29 +1423,6 @@
       {
          "compress" : 0,
          "gradient" : "true",
-         "key" : "IDtig00006140.g76.t1",
-         "label" : "IDtig00006140.g76.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig00006140.g76.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
          "key" : "IDtig00006453.g136.t1",
          "label" : "IDtig00006453.g136.t1",
          "menuTemplate" : [
@@ -1709,29 +1626,6 @@
          "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "urlTemplate" : "tracks/IDtig00006833.g72.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
-         "key" : "IDtig00007342.g112.t1",
-         "label" : "IDtig00007342.g112.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig00007342.g112.t1/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -2468,29 +2362,6 @@
          "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "urlTemplate" : "tracks/IDtig00013135.g101.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
-         "key" : "IDtig00013436.g71.t1",
-         "label" : "IDtig00013436.g71.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig00013436.g71.t1/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -3664,29 +3535,6 @@
          "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "urlTemplate" : "tracks/IDtig00030365.g90.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
-         "key" : "IDtig00030742.g97.t1",
-         "label" : "IDtig00030742.g97.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig00030742.g97.t1/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -5117,29 +4965,6 @@
       {
          "compress" : 0,
          "gradient" : "true",
-         "key" : "IDtig00178793.g103.t1",
-         "label" : "IDtig00178793.g103.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig00178793.g103.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
          "key" : "IDtig00179029.g145.t1",
          "label" : "IDtig00179029.g145.t1",
          "menuTemplate" : [
@@ -5715,29 +5540,6 @@
       {
          "compress" : 0,
          "gradient" : "true",
-         "key" : "IDtig01340030.g103.t1",
-         "label" : "IDtig01340030.g103.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig01340030.g103.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
          "key" : "IDtig01340085.g22.t1",
          "label" : "IDtig01340085.g22.t1",
          "menuTemplate" : [
@@ -5853,29 +5655,6 @@
       {
          "compress" : 0,
          "gradient" : "true",
-         "key" : "IDtig01340849.g112.t1",
-         "label" : "IDtig01340849.g112.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig01340849.g112.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
          "key" : "IDtig01341783.g48.t1",
          "label" : "IDtig01341783.g48.t1",
          "menuTemplate" : [
@@ -5895,29 +5674,6 @@
          "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
          "urlTemplate" : "tracks/IDtig01341783.g48.t1/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "gradient" : "true",
-         "key" : "IDtig01342162.g81.t1",
-         "label" : "IDtig01342162.g81.t1",
-         "menuTemplate" : [
-            {
-               "IconClass" : "dijitIconSearch",
-               "action" : "iframeDialog",
-               "label" : "Pathway",
-               "title" : "Phenylpropanoid biosynthesis",
-               "url" : "data/Phenylpropanoids.png"
-            }
-         ],
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature",
-            "color" : "function(feature) { return 'Purple' ; }"
-         },
-         "trackType" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "type" : "NeatCanvasFeatures/View/Track/NeatFeatures",
-         "urlTemplate" : "tracks/IDtig01342162.g81.t1/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
