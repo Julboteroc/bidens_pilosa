@@ -2285,9 +2285,13 @@ dojo-webpack-plugin@^2.7.2:
     raw-loader "0.5.1"
     tmp "0.0.30"
 
-dojo@1.13.0, dojo@^1.9.0:
+dojo@1.13.0:
   version "1.13.0"
   resolved "https://registry.yarnpkg.com/dojo/-/dojo-1.13.0.tgz#62a7c53628f4f7acfa791a96924c67f39cd5861b"
+
+dojo@1.13.1, dojo@^1.9.0:
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/dojo/-/dojo-1.13.1.tgz#a2a52dab895d9e71edd9d08a86e012f28336a0b6"
 
 dojox@1.13.0:
   version "1.13.0"
