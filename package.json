@@ -54,7 +54,7 @@
     "css-loader": "^0.28.10",
     "dgrid": "^1.1.0",
     "dijit": "1.13.0",
-    "dojo": "1.13.0",
+    "dojo": "1.13.7",
     "dojo-dstore": "^1.1.1",
     "dojo-util": "1.13.0",
     "dojo-webpack-plugin": "^2.7.2",
