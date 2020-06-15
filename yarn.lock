@@ -2252,6 +2252,12 @@ dijit@1.13.0:
   dependencies:
     dojo "1.13.0"
 
+dijit@1.13.8:
+  version "1.13.8"
+  resolved "https://registry.yarnpkg.com/dijit/-/dijit-1.13.8.tgz#a10105e5be2cafaf2376e45315380660fb5f47d7"
+  dependencies:
+    dojo "1.13.8"
+
 doctrine@1.5.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/doctrine/-/doctrine-1.5.0.tgz#379dce730f6166f76cefa4e6707a159b02c5a6fa"
@@ -2285,9 +2291,13 @@ dojo-webpack-plugin@^2.7.2:
     raw-loader "0.5.1"
     tmp "0.0.30"
 
-dojo@1.13.0, dojo@^1.9.0:
+dojo@1.13.0:
   version "1.13.0"
   resolved "https://registry.yarnpkg.com/dojo/-/dojo-1.13.0.tgz#62a7c53628f4f7acfa791a96924c67f39cd5861b"
+
+dojo@1.13.8, dojo@^1.9.0:
+  version "1.13.8"
+  resolved "https://registry.yarnpkg.com/dojo/-/dojo-1.13.8.tgz#5f6d150ac028b23c2b4001fa79399b6943011ea0"
 
 dojox@1.13.0:
   version "1.13.0"
